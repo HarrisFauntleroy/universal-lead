@@ -46,8 +46,6 @@ git checkout 1.21
 
 - **Universal Leashing** - Lead any hostile mob with vanilla leads
 - **Enemy Interface Support** - Works with all mobs implementing Enemy interface
-- **Vanilla Integration** - Seamless integration with existing lead mechanics
-- **Debug Mode** - Configurable troubleshooting options
 
 ## Technical Implementation
 
